@@ -47,7 +47,7 @@ post_date: 2020-03-03 10:05:27
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":95,"sizeSlug":"large","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/shop/"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/CBDshop150x123.jpg" alt="" class="wp-image-95"/></a><figcaption>Shop<a href="https://cbdarvada.com/shop/">https://cbdarvada.com/shop/</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/shop/"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/CBDshop150x123.jpg" alt="" class="wp-image-95"/></a></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
