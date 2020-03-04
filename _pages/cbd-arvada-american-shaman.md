@@ -52,8 +52,8 @@ post_date: 2020-03-03 10:05:27
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":42,"sizeSlug":"large","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/?page_id=7"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/150.png" alt="" class="wp-image-42"/></a><figcaption><a href="https://cbdarvada.com/?page_id=7">FAQ's</a></figcaption></figure></div>
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":85,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/?page_id=7"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/CBD-FAQ628x628.jpg" alt="" class="wp-image-85"/></a><figcaption><a href="https://cbdarvada.com/faqs/">FAQ's</a></figcaption></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
