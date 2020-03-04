@@ -41,19 +41,19 @@ post_date: 2020-03-03 10:05:27
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":38,"sizeSlug":"large","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/?page_id=11"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/15percentCoupon1500x935-1024x638.jpg" alt="" class="wp-image-38"/></a><figcaption><a href="https://cbdarvada.com/?page_id=11">Specials</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/specials/"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/15percentCoupon1500x935-1024x638.jpg" alt="" class="wp-image-38"/></a><figcaption><a href="https://cbdarvada.com/specials/">Specials</a></figcaption></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":83,"sizeSlug":"large","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/?page_id=11"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/cbd-american-shaman-cover-150x150-2.jpg" alt="" class="wp-image-83"/></a><figcaption><strong><a href="https://cbdarvada.com/shop/">Shop</a></strong></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/shop/"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/cbd-american-shaman-cover-150x150-2.jpg" alt="" class="wp-image-83"/></a><figcaption><strong><a href="https://cbdarvada.com/shop/">Shop</a></strong></figcaption></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":85,"sizeSlug":"large","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/?page_id=7"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/CBD-FAQ628x628.jpg" alt="" class="wp-image-85"/></a><figcaption><a href="https://cbdarvada.com/faqs/">FAQ's</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-thumb"><a href="https://cbdarvada.com/faqs/"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/CBD-FAQ628x628.jpg" alt="" class="wp-image-85"/></a><figcaption><a href="https://cbdarvada.com/faqs/">FAQ's</a></figcaption></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
