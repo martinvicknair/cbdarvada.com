@@ -52,9 +52,9 @@ post_date: 2020-03-03 10:05:27
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":85,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:html -->
 <div class="wp-block-image"><figure class="aligncenter size-thumb"><a href="https://cbdarvada.com/faqs/"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/CBD-FAQ628x628.jpg" alt="" class="wp-image-85"/></a><figcaption><a href="https://cbdarvada.com/faqs/">FAQ's</a></figcaption></figure></div>
-<!-- /wp:image --></div>
+<!-- /wp:html --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
