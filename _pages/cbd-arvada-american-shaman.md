@@ -46,8 +46,8 @@ post_date: 2020-03-03 10:05:27
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":42,"sizeSlug":"large","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/?page_id=11"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/150.png" alt="" class="wp-image-42"/></a><figcaption><a href="https://cbdarvada.com/?page_id=9">Shop</a></figcaption></figure></div>
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":83,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/?page_id=11"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/cbd-american-shaman-cover-150x150-2.jpg" alt="" class="wp-image-83"/></a><figcaption><strong><a href="https://cbdarvada.com/shop/">Shop</a></strong></figcaption></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
