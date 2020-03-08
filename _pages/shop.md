@@ -15,3 +15,27 @@ post_date: 2020-03-03 10:05:58
 <!-- wp:paragraph -->
 <p>We support farms that are growing Non-GMO crops and understand the sustainability of hemp as a crop. Hemp is naturally resistant to most pests. Therefore there is no need for pesticides, herbicides or toxic fertilizer.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":101,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/cbd-joints-1.jpg" alt="" class="wp-image-101"/><figcaption>Pre-rolled Cones</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":102,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/cbd-terpene-rich-hemp-oil-tincture-1.jpg" alt="" class="wp-image-102"/><figcaption>Terpene Rich Hemp Oil Tincture</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":103,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/cbd-terpene-rich-hemp-oil-clearomizer-1.jpg" alt="" class="wp-image-103"/><figcaption>CBD Vape Pens</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
