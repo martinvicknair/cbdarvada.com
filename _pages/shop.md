@@ -36,6 +36,6 @@ post_date: 2020-03-03 10:05:58
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:image {"id":105,"sizeSlug":"thumbnail","linkDestination":"custom"} -->
-<figure class="wp-block-image size-thumbnail"><a href="https://cbdamericanshaman.com/arvada"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/shop-online-button-150x137.jpg" alt="" class="wp-image-105"/></a><figcaption><a href="https://cbdamericanshaman.com/arvada">Free Shipping with $99 purchase</a></figcaption></figure>
+<!-- wp:image {"id":105,"width":150,"height":56,"sizeSlug":"medium","linkDestination":"custom"} -->
+<figure class="wp-block-image size-medium is-resized"><a href="https://cbdamericanshaman.com/arvada"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/shop-online-button-300x112.jpg" alt="" class="wp-image-105" width="150" height="56"/></a><figcaption><a href="https://cbdamericanshaman.com/arvada">Free Shipping with $99 purchase</a></figcaption></figure>
 <!-- /wp:image -->
