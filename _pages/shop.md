@@ -16,6 +16,10 @@ post_date: 2020-03-03 10:05:58
 <p>We support farms that are growing Non-GMO crops and understand the sustainability of hemp as a crop. Hemp is naturally resistant to most pests. Therefore there is no need for pesticides, herbicides or toxic fertilizer.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:image {"align":"center","id":121,"width":480,"height":245,"sizeSlug":"full"} -->
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-oil-pets.jpg" alt="" class="wp-image-121" width="480" height="245"/></figure></div>
+<!-- /wp:image -->
+
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":101,"sizeSlug":"large"} -->
@@ -38,8 +42,8 @@ post_date: 2020-03-03 10:05:58
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":121,"width":480,"height":245,"sizeSlug":"full"} -->
-<figure class="wp-block-image size-full is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-oil-pets.jpg" alt="" class="wp-image-121" width="480" height="245"/></figure>
+<div class="wp-block-column"><!-- wp:image {"id":105,"width":150,"height":56,"sizeSlug":"medium","linkDestination":"custom"} -->
+<figure class="wp-block-image size-medium is-resized"><a href="https://cbdamericanshaman.com/arvada"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/shop-online-button-300x112.jpg" alt="" class="wp-image-105" width="150" height="56"/></a><figcaption><a href="https://cbdamericanshaman.com/arvada">Free Shipping with $99 purchase</a></figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -48,8 +52,6 @@ post_date: 2020-03-03 10:05:58
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":105,"width":150,"height":56,"sizeSlug":"medium","linkDestination":"custom"} -->
-<figure class="wp-block-image size-medium is-resized"><a href="https://cbdamericanshaman.com/arvada"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/shop-online-button-300x112.jpg" alt="" class="wp-image-105" width="150" height="56"/></a><figcaption><a href="https://cbdamericanshaman.com/arvada">Free Shipping with $99 purchase</a></figcaption></figure>
-<!-- /wp:image --></div>
+<div class="wp-block-column"></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
