@@ -2,7 +2,10 @@
 ID: 136
 post_title: Curbside Service
 author: CBD Arvada
-post_excerpt: ""
+post_excerpt: >
+  We are offering immediate curbside
+  pickup and free home delivery with a $99
+  purchase!
 layout: post
 permalink: https://cbdarvada.com/curbside-service/
 published: true
