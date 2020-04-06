@@ -10,7 +10,7 @@ published: true
 post_date: 2020-04-06 17:13:33
 ---
 <!-- wp:paragraph -->
-<p>Due to COVID-19 concerns, we have adjusted our store hours:<br><br><strong>Arvada West<br>12pm – 6pm<br>Monday – Saturday </strong><br><br><strong>Arvada Wadsworth<br>10am – 4pm<br>Monday – Saturday </strong> </p>
+<p>Due to COVID-19 concerns, we have adjusted our store hours:<br><br><strong>CBD Arvada West<br>12pm – 6pm<br>Monday – Saturday </strong><br><br><strong>CBD Arvada Wadsworth<br>10am – 4pm<br>Monday – Saturday </strong> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
