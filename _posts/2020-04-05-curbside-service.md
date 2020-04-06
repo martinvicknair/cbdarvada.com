@@ -9,7 +9,7 @@ post_excerpt: >
 layout: post
 permalink: https://cbdarvada.com/curbside-service/
 published: true
-post_date: 2020-03-17 12:11:53
+post_date: 2020-04-05 12:11:00
 ---
 <!-- wp:paragraph -->
 <p>Please find the precautions we are taking here at Arvada American Shaman! We are offering immediate curbside pickup and <a href="https://cbdamericanshaman.com/arvada" target="_blank" rel="noreferrer noopener" aria-label="free home delivery with a $99 purchase (opens in a new tab)">free home delivery with a $99 purchase</a>! Please help us spread the word! Keep yourselves safe and let us know if we can help in anyway!!!</p>
