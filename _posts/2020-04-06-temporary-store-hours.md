@@ -2,9 +2,7 @@
 ID: 170
 post_title: Temporary Store Hours
 author: CBD Arvada
-post_excerpt: >
-  Both stores are open six days a week,
-  with reduced hours.
+post_excerpt: 'Both stores are still open six days a week, with reduced hours. Come in for 15% off today!'
 layout: post
 permalink: >
   https://cbdarvada.com/temporary-store-hours/
