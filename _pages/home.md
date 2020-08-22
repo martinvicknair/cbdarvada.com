@@ -8,32 +8,6 @@ permalink: https://cbdarvada.com/
 published: true
 post_date: 2020-08-22 11:49:17
 ---
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":66.66} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"align":"wide","id":258,"sizeSlug":"thumbnail","className":"is-style-rounded"} -->
-<figure class="wp-block-image alignwide size-thumbnail is-style-rounded"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/open-business-150x150.jpg" alt="" class="wp-image-258"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":33.33} -->
-<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"align":"center","id":100,"sizeSlug":"large","className":"is-style-rounded"} -->
-<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large"><a href="https://cbdamericanshaman.com/arvada"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-authority320x320.png" alt="" class="wp-image-100"/></a></figure></div>
-<!-- /wp:image -->
-
-<!-- wp:image {"align":"center","id":255,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdamericanshaman.com/arvada"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/shop-online.png" alt="" class="wp-image-255"/></a></figure></div>
-<!-- /wp:image -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><strong>Free Shipping with $99 purchase</strong></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"center","id":258,"width":365,"height":365,"sizeSlug":"large","className":"is-style-rounded"} -->
 <div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/open-business.jpg" alt="" class="wp-image-258" width="365" height="365"/></figure></div>
@@ -47,6 +21,18 @@ post_date: 2020-08-22 11:49:17
 <p></p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:group -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":301,"width":274,"height":274,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/100organic.jpg" alt="" class="wp-image-301" width="274" height="274"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
