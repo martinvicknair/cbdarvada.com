@@ -16,12 +16,20 @@ post_date: 2020-08-22 11:49:17
 <!-- /wp:column -->
 
 <!-- wp:column {"width":33.33} -->
-<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"align":"center","id":100,"sizeSlug":"large"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Free Shipping with $99 purchase</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":100,"sizeSlug":"large"} -->
 <div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdamericanshaman.com/arvada"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-authority320x320.png" alt="" class="wp-image-100"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:image {"align":"center","id":255,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdamericanshaman.com/arvada"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/shop-online.png" alt="" class="wp-image-255"/></a><figcaption><strong>Free Shipping with $99 purchase</strong></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdamericanshaman.com/arvada"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/shop-online.png" alt="" class="wp-image-255"/></a></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -34,7 +42,9 @@ post_date: 2020-08-22 11:49:17
 <!-- /wp:column -->
 
 <!-- wp:column {"width":33.33} -->
-<div class="wp-block-column" style="flex-basis:33.33%"></div>
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
