@@ -11,7 +11,7 @@ post_date: 2020-08-22 11:49:17
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":66.66} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"align":"center","id":100,"width":274,"height":274,"sizeSlug":"large","className":"is-style-rounded"} -->
-<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-authority320x320.png" alt="" class="wp-image-100" width="274" height="274"/><figcaption>274</figcaption></figure></div>
+<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-authority320x320.png" alt="" class="wp-image-100" width="274" height="274"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
