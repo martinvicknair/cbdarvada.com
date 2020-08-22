@@ -25,5 +25,5 @@ post_date: 2020-08-22 17:37:34
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As a company we are focused on the welfare of our customers and even provide a Compassionate Care program with discounts for those in need, those who are low-income, and for veterans. We offer competitive pricing and have a money back guarantee policy. If not satisfied, we will refund your order within 45 days if purchased from our <a href="http://cbdamericanshaman.com/arvada">website</a>. If you purchased your product at a franchise, you have 30 days to return the item with proof of purchase at the location it was purchased. If you purchased from a wholesale account, or another authorized retailer, you will fall within that individuals return policy.</p>
+<p>As a company we are focused on the welfare of our customers and even provide a <a href="https://cbdamericanshaman.com/compassionate-care">Compassionate Care</a> program with discounts for those in need, those who are low-income, and for veterans. We offer competitive pricing and have a money back guarantee policy. If not satisfied, we will refund your order within 45 days if purchased from our <a href="http://cbdamericanshaman.com/arvada">website</a>. If you purchased your product in one of our stores, you have 30 days to return the item with proof of purchase at the location it was purchased. </p>
 <!-- /wp:paragraph -->
