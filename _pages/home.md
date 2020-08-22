@@ -81,9 +81,11 @@ post_date: 2020-08-22 11:49:17
 <div class="wp-block-column"><!-- wp:image {"id":286,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Wellness.jpg" alt="" class="wp-image-286"/></figure>
 <!-- /wp:image --></div>
-<!-- /wp:column -->
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
-<!-- wp:column -->
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":287,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Beauty.jpg" alt="" class="wp-image-287"/></figure>
 <!-- /wp:image --></div>
