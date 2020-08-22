@@ -10,7 +10,7 @@ post_date: 2020-08-22 11:49:17
 ---
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"center","id":258,"width":365,"height":365,"sizeSlug":"large","className":"is-style-rounded"} -->
-<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/open-business.jpg" alt="" class="wp-image-258" width="365" height="365"/></figure></div>
+<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><a href="#locations"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/open-business.jpg" alt="" class="wp-image-258" width="365" height="365"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
