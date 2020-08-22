@@ -4,14 +4,14 @@ post_title: Home
 author: CBD Arvada
 post_excerpt: ""
 layout: page
-permalink: https://cbdarvada.com/home/
+permalink: https://cbdarvada.com/
 published: true
 post_date: 2020-08-22 11:49:17
 ---
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":66.66} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"align":"wide","id":281,"sizeSlug":"large","className":"is-style-default"} -->
-<figure class="wp-block-image alignwide size-large is-style-default"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/arvadaShaman500x245.jpg" alt="" class="wp-image-281"/></figure>
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"align":"wide","id":301,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image alignwide size-large is-style-rounded"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/100organic.jpg" alt="" class="wp-image-301"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
