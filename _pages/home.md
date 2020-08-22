@@ -10,8 +10,8 @@ post_date: 2020-08-22 11:49:17
 ---
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":66.66} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"align":"center","id":100,"width":274,"height":274,"sizeSlug":"large","className":"is-style-rounded"} -->
-<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-authority320x320.png" alt="" class="wp-image-100" width="274" height="274"/></figure></div>
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"align":"center","id":100,"sizeSlug":"large","className":"is-style-rounded"} -->
+<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-authority320x320.png" alt="" class="wp-image-100"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -30,20 +30,6 @@ post_date: 2020-08-22 11:49:17
 
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><strong>Free Shipping with $99 purchase</strong></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":66.66} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"align":"center","id":258,"width":274,"height":274,"sizeSlug":"large","className":"is-style-rounded"} -->
-<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/open-business.jpg" alt="" class="wp-image-258" width="274" height="274"/><figcaption><strong>Shop in person today at one of our two convenient locations in Arvada, Colorado</strong></figcaption></figure></div>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":33.33} -->
-<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph -->
-<p></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -70,6 +56,16 @@ post_date: 2020-08-22 11:49:17
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
+<!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"center","id":258,"width":365,"height":365,"sizeSlug":"large","className":"is-style-rounded"} -->
+<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/open-business.jpg" alt="" class="wp-image-258" width="365" height="365"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Shop in person today at one of our two convenient locations in Arvada, Colorado</strong></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph -->
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group -->
