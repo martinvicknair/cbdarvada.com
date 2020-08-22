@@ -24,13 +24,19 @@ post_date: 2020-08-22 11:49:17
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":301,"width":274,"height":274,"sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/100organic.jpg" alt="" class="wp-image-301" width="274" height="274"/></figure>
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":301,"width":274,"height":274,"sizeSlug":"large","className":"is-style-rounded"} -->
+<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/100organic.jpg" alt="" class="wp-image-301" width="274" height="274"/></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"></div>
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":100,"width":240,"height":240,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-authority320x320.png" alt="" class="wp-image-100" width="240" height="240"/><figcaption><strong>Free Shipping with $99 purchase</strong></figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:image {"align":"center","id":255,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/shop-online.png" alt="" class="wp-image-255"/></figure></div>
+<!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
