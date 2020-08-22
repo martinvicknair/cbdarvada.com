@@ -10,8 +10,8 @@ post_date: 2020-08-22 11:49:17
 ---
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":66.66} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"align":"center","id":194,"sizeSlug":"large","className":"is-style-rounded"} -->
-<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/07/Arvada.SHaman-1.jpg" alt="" class="wp-image-194"/></figure></div>
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"align":"wide","id":194,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image alignwide size-large is-style-rounded"><img src="https://cbdarvada.com/wp-content/uploads/2020/07/Arvada.SHaman-1.jpg" alt="" class="wp-image-194"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
