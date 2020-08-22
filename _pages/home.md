@@ -69,3 +69,29 @@ post_date: 2020-08-22 11:49:17
 <!-- /wp:html --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":285,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Relief.jpg" alt="" class="wp-image-285"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":286,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Wellness.jpg" alt="" class="wp-image-286"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":287,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Beauty.jpg" alt="" class="wp-image-287"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":288,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-PETS.jpg" alt="" class="wp-image-288"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
