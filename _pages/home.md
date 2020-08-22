@@ -2,7 +2,7 @@
 ID: 246
 post_title: Home
 author: CBD Arvada
-post_excerpt: 'Shop in person today at either of our  convenient locations in Arvada, Colorado. Shop online, free shipping with $99 purchase.'
+post_excerpt: 'Shop in person today at either of our  convenient locations in Arvada, Colorado. Shop online, free shipping with $99 purchase'
 layout: page
 permalink: https://cbdarvada.com/
 published: true
