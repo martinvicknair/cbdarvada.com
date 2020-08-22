@@ -9,7 +9,7 @@ published: true
 post_date: 2020-08-22 17:37:34
 ---
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>“We are here to help. Our goal is to put CBD in the hands of those who can reap the benefits! Reach the ones who are suffering from anxiety, depression, epilepsy, cancer, PTSD, opioid addiction, those struggling to maintain focus, and those in need of pain management,” said co-owner Bridget Sheils. With this being the only CBD store in Arvada, relief is just a moment away.</p><cite>CBD Arvada American Shaman Opens the Only CBD Stores in Arvada</cite></blockquote>
+<blockquote class="wp-block-quote"><p>We are here to help. Our goal is to put CBD in the hands of those who can reap the benefits! Reach the ones who are suffering from anxiety, depression, epilepsy, cancer, PTSD, opioid addiction, those struggling to maintain focus, and those in need of pain management. With this being the only CBD store in Arvada, relief is just a moment away.</p><cite>Co-owner Bridget Sheils on opening the first CBD stores in Arvada, Colorado</cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
