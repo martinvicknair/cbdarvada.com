@@ -1,10 +1,10 @@
 ---
 ID: 246
-post_title: ""
+post_title: Home
 author: CBD Arvada
 post_excerpt: ""
 layout: page
-permalink: https://cbdarvada.com/246-2/
+permalink: https://cbdarvada.com/home/
 published: true
 post_date: 2020-08-22 11:49:17
 ---
