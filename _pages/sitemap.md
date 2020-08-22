@@ -2,7 +2,9 @@
 ID: 221
 post_title: Sitemap
 author: CBD Arvada
-post_excerpt: ""
+post_excerpt: >
+  A list of pages on the cbdarvada.com web
+  site
 layout: page
 permalink: https://cbdarvada.com/sitemap/
 published: true
