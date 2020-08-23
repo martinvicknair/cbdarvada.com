@@ -17,7 +17,7 @@ post_date: 2020-08-17 17:02:56
 <!-- /wp:separator -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><em>Voted "Best of the Best 2020: CBD Shop" as reported by Colorado Community Media. </em></p><p><em>Thank you for your continued support!</em></p><cite><a href="https://coloradocommunitymedia.com/stories/best-of-the-best-2020,313269">Best of the Best 2020 | Colorado Community Media</a></cite></blockquote>
+<blockquote class="wp-block-quote"><p><em><strong>Voted "Best of the Best 2020: CBD Shop" as reported by Colorado Community Media. </strong></em></p><p><em><strong>Thank you for your continued support!</strong></em></p><cite><a href="https://coloradocommunitymedia.com/stories/best-of-the-best-2020,313269"><strong>Best of the Best 2020 | Colorado Community Media</strong></a></cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:separator -->
@@ -25,7 +25,7 @@ post_date: 2020-08-17 17:02:56
 <!-- /wp:separator -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><strong><em>Bridget Sheils is the co-owner of the CBD of Arvada American Shaman franchises, which opened in Arvada on January 19th, 2019. The shops are the first CBD products retailers to open in Arvada and the first of the CBD American Shaman brand in Colorado.</em></strong></p><cite><a href="https://www.arvadachamber.org/member-spotlight-arvada-american-shaman/">Member Spotlight: Arvada American Shaman | Arvada Chamber of Commerce</a></cite></blockquote>
+<blockquote class="wp-block-quote"><p><strong><em>Bridget Sheils is the co-owner of the CBD of Arvada American Shaman franchises, which opened in Arvada  in 2019. The shops are the first CBD products retailers to open in Arvada and the first of the CBD American Shaman brand in Colorado.</em></strong></p><cite><a href="https://www.arvadachamber.org/member-spotlight-arvada-american-shaman/"><strong>Member Spotlight: Arvada American Shaman | Arvada Chamber of Commerce</strong></a></cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
