@@ -12,12 +12,12 @@ post_date: 2020-08-17 17:02:56
 <p>One of the biggest compliments we can receive is a review from one of our valued clients. Click on your favorite social media/review site to read about some of our satisfied customers, and leave a review about your experience with us. Thank you so much!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list -->
-<ul><li>pressMention1</li><li>pressMention2</li></ul>
-<!-- /wp:list -->
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Voted "Best of the Best 2020: CBD Shops" for 2020 by popular demand as reported by Colorado Community Media. </p><p></p><cite><a href="https://coloradocommunitymedia.com/stories/best-of-the-best-2020,313269">Best of the Best 2020 | Colorado Community Media</a></cite></blockquote>
+<!-- /wp:quote -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Bridget Sheils is the co-owner of CBD American Shaman franchise, which opened in Arvada on January 19th. The shop is the first CBD products retailer to open in Arvada and the first of the CBD American Shaman brand in Colorado.</p><cite><a href="https://www.arvadachamber.org/member-spotlight-arvada-american-shaman/">Arvada Chamber of Commerce Member Spotlight: Arvada American Shaman</a>, March 26, 2019</cite></blockquote>
+<blockquote class="wp-block-quote"><p>Bridget Sheils is the co-owner of&nbsp;CBD American Shaman franchise, which opened in Arvada on January 19th. The shop is the first CBD products retailer to open in Arvada and the first of the CBD American Shaman brand in Colorado.</p><cite><a href="https://www.arvadachamber.org/member-spotlight-arvada-american-shaman/">Arvada Chamber of Commerce Member Spotlight: Arvada American Shaman</a>, March 26, 2019</cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
