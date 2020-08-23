@@ -9,5 +9,5 @@ published: true
 post_date: 2020-08-22 17:21:32
 ---
 <!-- wp:paragraph -->
-<p>Shop our CBD American Shaman online store, Free Delivery with $99 purchase!</p>
+<p>Shop our CBD American Shaman online store - Free Delivery with $99 purchase!</p>
 <!-- /wp:paragraph -->
