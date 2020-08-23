@@ -40,6 +40,10 @@ post_date: 2020-08-22 11:49:17
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/>
+<!-- /wp:separator -->
+
 <!-- wp:columns -->
 <div class="wp-block-columns" id="locations"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"align":"left"} -->
@@ -61,3 +65,7 @@ post_date: 2020-08-22 11:49:17
 <!-- /wp:html --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
+
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/>
+<!-- /wp:separator -->
