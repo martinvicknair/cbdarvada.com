@@ -16,8 +16,12 @@ post_date: 2020-08-17 17:02:56
 <ul><li>pressMention1</li><li>pressMention2</li><li>pressMention3</li></ul>
 <!-- /wp:list -->
 
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/>
+<!-- /wp:separator -->
+
 <!-- wp:paragraph -->
-<p><strong>Google Reviews:</strong></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
