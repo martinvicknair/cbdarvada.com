@@ -37,5 +37,5 @@ post_date: 2020-08-17 17:02:56
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Other</p>
+<p>[yrw business_id="FJTaBQ_msTdQFNeO69sTqQ" refresh_reviews=true read_on_yelp=true open_link=true nofollow_link=true]</p>
 <!-- /wp:paragraph -->
