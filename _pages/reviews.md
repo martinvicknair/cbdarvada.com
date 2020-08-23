@@ -21,5 +21,5 @@ post_date: 2020-08-17 17:02:56
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Google</li><li>Yelp</li><li>Other</li></ul>
+<ul><li>[grw place_photo="https://lh3.googleusercontent.com/places/ABKp1IpB5e4hg1QIiCwtjInt28_G0IwvqS64q0KqSYynlFkkr3VNLgLLfvG_QZXhsZ4GfV2D4XUN8ZmJ5vb5yundPx_v1sVNHaZOIkE=s1600-w300-h300" place_name="CBD Arvada American Shaman" place_id="ChIJR1hpc8WJa4cRtgBnPjVneRY" pagination="5" text_size="120" refresh_reviews=true lazy_load_img=true reduce_avatars_size=true open_link=true nofollow_link=true]</li><li>Yelp</li><li>Other</li></ul>
 <!-- /wp:list -->
