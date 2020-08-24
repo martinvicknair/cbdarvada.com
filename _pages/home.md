@@ -14,7 +14,7 @@ post_date: 2020-08-22 11:49:17
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><strong>Shop in person today at either of our two convenient locations in Arvada, Colorado</strong></p>
+<p class="has-text-align-center"><strong><a href="#locations">Shop in person today at either of our two convenient locations in Arvada, Colorado</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -67,3 +67,7 @@ post_date: 2020-08-22 11:49:17
 <!-- /wp:html --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
