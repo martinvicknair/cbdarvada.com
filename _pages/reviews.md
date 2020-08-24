@@ -25,7 +25,7 @@ post_date: 2020-08-17 17:02:56
 <!-- /wp:separator -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><strong><em>Bridget Sheils is the co-owner of the CBD of Arvada American Shaman franchises, which opened in Arvada  in 2019. The shops are the first CBD products retailers to open in Arvada and the first of the CBD American Shaman brand in Colorado.</em></strong></p><cite><a href="https://www.arvadachamber.org/member-spotlight-arvada-american-shaman/"><strong>Member Spotlight | Arvada Chamber of Commerce</strong></a></cite></blockquote>
+<blockquote class="wp-block-quote"><p><strong><em>Bridget Sheils is the co-owner of the&nbsp;CBD of Arvada American Shaman franchises, which opened in Arvada  in 2019. The shops are the first CBD products retailers to open in Arvada and the first of the CBD American Shaman brand in Colorado.</em></strong></p><cite><a href="https://www.arvadachamber.org/member-spotlight-arvada-american-shaman/"><strong>Member Spotlight | Arvada Chamber of Commerce</strong></a></cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
@@ -55,3 +55,7 @@ post_date: 2020-08-17 17:02:56
 <!-- wp:paragraph -->
 <p>[yrw business_id="FJTaBQ_msTdQFNeO69sTqQ" refresh_reviews=true read_on_yelp=true open_link=true nofollow_link=true]</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
