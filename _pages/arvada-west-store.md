@@ -73,5 +73,5 @@ post_date: 2020-08-22 17:14:50
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3064.6882320729374!2d-105.13201298525863!3d39.813984600000616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876b8ffe9b2a875b%3A0xd8d932411a536fb1!2sCBD%20Arvada%20American%20Shaman%20West!5e0!3m2!1sen!2sus!4v1582487168995!5m2!1sen!2sus" width="450" height="337" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3064.6882320729374!2d-105.13201298525863!3d39.813984600000616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876b8ffe9b2a875b%3A0xd8d932411a536fb1!2sCBD%20Arvada%20American%20Shaman%20West!5e0!3m2!1sen!2sus!4v1582487168995!5m2!1sen!2sus" width="650" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 <!-- /wp:html -->
