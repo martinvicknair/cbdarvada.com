@@ -9,7 +9,7 @@ published: true
 post_date: 2020-08-22 17:15:11
 ---
 <!-- wp:paragraph -->
-<p>Shop in person today- our Arvada West location serves the Northwest Arvada, Alta Vista, Grace Place, Oberon, Rainbow Bridge, Appleridge Estates, Candlelight, Quail Cove, Meadowlake West, Harvest Lane, Wyndhams, and Forest Springs neighborhoods.</p>
+<p>Shop in person today- our Wadsworth store serves the Olde Town Arvada, Lamar Heights, East Arvada Townhomes, South Westminster, Highlands, and Scenic Heights neighborhoods.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
