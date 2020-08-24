@@ -13,8 +13,8 @@ post_date: 2020-08-22 11:49:17
 <div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><a href="#locations"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/open-business.jpg" alt="" class="wp-image-258" width="365" height="365"/></a></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:paragraph {"align":"center","className":"font-color:black","textColor":"black"} -->
-<p class="has-text-align-center font-color:black has-black-color has-text-color"><strong><a href="#locations">Shop in person today at either of our two convenient locations in Arvada, Colorado</a></strong></p>
+<!-- wp:paragraph {"align":"center","className":"color:#990000","textColor":"black"} -->
+<p class="has-text-align-center color:#990000 has-black-color has-text-color"><strong><a href="#locations">Shop in person today at either of our two convenient locations in Arvada, Colorado</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
