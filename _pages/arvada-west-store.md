@@ -9,6 +9,10 @@ published: true
 post_date: 2020-08-22 17:14:50
 ---
 <!-- wp:paragraph -->
+<p>Shop in person today- our Arvada West location serves the Northwest Arvada, Alta Vista, Grace Place, Oberon, Rainbow Bridge, Appleridge Estates, Candlelight, Quail Cove, Meadowlake West, Harvest Lane, Wyndhams, Forest Springs neighborhoods.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p><strong>CBD Arvada West</strong><br><a href="https://g.page/arvada-american-shaman-cbd?share">11651 W 64th Ave, Arvada, CO 80004</a><br>10am – 6pm<br>Monday – Saturday<br>Corner of W 64th &amp; Simms St.<br><a href="tel: 7203286216">720-328-6216</a></p>
 <!-- /wp:paragraph -->
 
