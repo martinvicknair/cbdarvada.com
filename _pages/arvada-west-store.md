@@ -16,44 +16,6 @@ post_date: 2020-08-22 17:14:50
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":285,"sizeSlug":"medium"} -->
-<figure class="wp-block-image size-medium"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Relief-300x175.jpg" alt="" class="wp-image-285"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":286,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Wellness.jpg" alt="" class="wp-image-286"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":287,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Beauty.jpg" alt="" class="wp-image-287"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":288,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-PETS.jpg" alt="" class="wp-image-288"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><a href="/shop-online-now/">Free shipping with $99 purchase</a></p>
 <!-- /wp:paragraph -->
@@ -75,3 +37,49 @@ post_date: 2020-08-22 17:14:50
 <!-- wp:html -->
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3064.6882320729374!2d-105.13201298525863!3d39.813984600000616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876b8ffe9b2a875b%3A0xd8d932411a536fb1!2sCBD%20Arvada%20American%20Shaman%20West!5e0!3m2!1sen!2sus!4v1582487168995!5m2!1sen!2sus" width="850" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 <!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":285,"sizeSlug":"medium"} -->
+<figure class="wp-block-image size-medium"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Relief-300x175.jpg" alt="" class="wp-image-285"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":286,"sizeSlug":"medium"} -->
+<figure class="wp-block-image size-medium"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Wellness-300x175.jpg" alt="" class="wp-image-286"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":287,"sizeSlug":"medium"} -->
+<figure class="wp-block-image size-medium"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Beauty-300x175.jpg" alt="" class="wp-image-287"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":288,"sizeSlug":"medium"} -->
+<figure class="wp-block-image size-medium"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-PETS-300x175.jpg" alt="" class="wp-image-288"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
