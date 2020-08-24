@@ -32,7 +32,13 @@ post_date: 2020-08-22 11:49:17
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":100,"width":240,"height":240,"sizeSlug":"large"} -->
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-authority320x320.png" alt="" class="wp-image-100" width="240" height="240"/><figcaption><strong>Free Shipping with $99 purchase</strong></figcaption></figure></div>
-<!-- /wp:image --></div>
+<!-- /wp:image -->
+
+<!-- wp:buttons {"align":"center"} -->
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"gradient":"radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)"}},"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-background" style="background:radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)" rel="/shop-online-now/"><strong>Shop Online Now!</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
@@ -61,13 +67,3 @@ post_date: 2020-08-22 11:49:17
 <!-- /wp:html --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
-
-<!-- wp:separator {"className":"is-style-wide"} -->
-<hr class="wp-block-separator is-style-wide"/>
-<!-- /wp:separator -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"gradient":"radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)"}},"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-background" style="background:radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)" rel="/shop-online-now">Shop Online Now!</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
