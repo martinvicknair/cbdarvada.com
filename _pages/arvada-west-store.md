@@ -16,17 +16,17 @@ post_date: 2020-08-22 17:14:50
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":285,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Relief.jpg" alt="" class="wp-image-285"/></a></figure>
-<!-- /wp:image --></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
@@ -54,12 +54,12 @@ post_date: 2020-08-22 17:14:50
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:paragraph -->
-<p><a href="/shop-online-now/">Free shipping with $99 purchase</a></p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="/shop-online-now/">Free shipping with $99 purchase</a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"gradient":"radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)"}},"className":"is-style-outline"} -->
+<!-- wp:buttons {"align":"center"} -->
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"gradient":"radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)"}},"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-background" href="/shop-online-now/" style="background:radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)" rel="/shop-online-now/"><strong>Shop Online Now!</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
