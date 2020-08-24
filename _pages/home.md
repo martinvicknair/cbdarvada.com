@@ -31,7 +31,7 @@ post_date: 2020-08-22 11:49:17
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":100,"width":240,"height":240,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-authority320x320.png" alt="" class="wp-image-100" width="240" height="240"/><figcaption><strong>Free Shipping with $99 purchase</strong></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/03/hemp-authority320x320.png" alt="" class="wp-image-100" width="240" height="240"/></a><figcaption><strong><a href="/shop-online-now/">Free Shipping with $99 purchase</a></strong></figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:buttons {"align":"center"} -->
