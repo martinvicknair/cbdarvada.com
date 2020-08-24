@@ -9,7 +9,7 @@ published: true
 post_date: 2020-08-22 17:37:34
 ---
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><em>"We are here to help. Our goal is to put CBD in the hands of those who can reap the benefits! Reach the ones who are suffering from anxiety, depression, epilepsy, cancer, PTSD, opioid addiction, those struggling to maintain focus, and those in need of pain management. With this being the only CBD store in Arvada, relief is just a moment away."</em></p><cite>Co-owner Bridget Sheils on opening the first CBD stores in Arvada, Colorado</cite></blockquote>
+<blockquote class="wp-block-quote"><p><em><strong>"We are here to help. Our goal is to put CBD in the hands of those who can reap the benefits! Reach the ones who are suffering from anxiety, depression, epilepsy, cancer, PTSD, opioid addiction, those struggling to maintain focus, and those in need of pain management. With this being the only CBD store in Arvada, relief is just a moment away."</strong></em></p><cite><span class="has-inline-color has-vivid-cyan-blue-color"><strong>Co-owner Bridget Sheils on opening the first CBD stores in Arvada, Colorado</strong></span></cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
