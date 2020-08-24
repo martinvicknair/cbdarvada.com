@@ -19,7 +19,7 @@ post_date: 2020-08-24 16:40:24
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":411,"sizeSlug":"thumbnail"} -->
-<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/anti-inflammatory-topical-cream-150x150.jpg" alt="" class="wp-image-411"/><figcaption>You get only the highest quality hemp oil (non-GMO hemp) containing high amounts of CBD (500 mg) in a convenient 2oz size. And, since we test each batch for purity and potency, you know you're getting the best of Nature enhanced by Science.</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/anti-inflammatory-topical-cream-150x150.jpg" alt="" class="wp-image-411"/><figcaption><strong>Topical Cream</strong><br>You get only the highest quality hemp oil (non-GMO hemp) containing high amounts of CBD (500 mg) in a convenient 2oz size. And, since we test each batch for purity and potency, you know you're getting the best of Nature enhanced by Science.</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -29,7 +29,7 @@ post_date: 2020-08-24 16:40:24
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":412,"sizeSlug":"thumbnail"} -->
-<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/hydrating-body-lotion-150x150.png" alt="" class="wp-image-412"/><figcaption>Non-greasy formula. Our hydrating body lotion is an amazing combination of Ultra Concentrated Hemp Oil and other powerful natural ingredients. These ingredients each promote unbelievable skin revitalization on their own, but in this formula they work together to give you incredibly supple skin.</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/hydrating-body-lotion-150x150.png" alt="" class="wp-image-412"/><figcaption><strong>Body Lotion</strong><br>Non-greasy formula. Our hydrating body lotion is an amazing combination of Ultra Concentrated Hemp Oil and other powerful natural ingredients. These ingredients each promote unbelievable skin revitalization on their own, but in this formula they work together to give you incredibly supple skin.</figcaption></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
