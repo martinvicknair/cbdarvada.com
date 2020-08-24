@@ -20,8 +20,8 @@ post_date: 2020-08-22 17:14:50
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":285,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Relief.jpg" alt="" class="wp-image-285"/></a></figure>
+<div class="wp-block-column"><!-- wp:image {"id":285,"sizeSlug":"thumbnail"} -->
+<figure class="wp-block-image size-thumbnail"><a href="/shop-online-now/"><img src="https://cbdarvada.com/wp-content/uploads/2020/08/CBD-Relief-150x150.jpg" alt="" class="wp-image-285"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
