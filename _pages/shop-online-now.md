@@ -14,6 +14,6 @@ post_date: 2020-08-22 17:21:32
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"borderRadius":11,"style":{"color":{"gradient":"radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)"}},"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-background" style="border-radius:11px;background:radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)">Click to Shop Online Now!</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-background" href="https://cbdamericanshaman.com/arvada" style="border-radius:11px;background:radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)">Click to Shop Online Now!</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
