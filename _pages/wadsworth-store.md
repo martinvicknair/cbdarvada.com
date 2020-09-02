@@ -1,12 +1,12 @@
 ---
-ID: 320
+ID: 19
 post_title: Wadsworth Store
-author: CBD Arvada
+author: cbdarvada
 post_excerpt: ""
 layout: page
 permalink: https://cbdarvada.com/wadsworth-store/
 published: true
-post_date: 2020-08-22 17:15:11
+post_date: 2020-08-25 22:53:56
 ---
 <!-- wp:paragraph -->
 <p>Shop in person today- our Wadsworth store serves the Olde Town Arvada, Lamar Heights, East Arvada Townhomes, South Westminster, Highlands, and Scenic Heights neighborhoods.</p>
@@ -17,12 +17,12 @@ post_date: 2020-08-22 17:15:11
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><a href="https://cbdarvada.com/shop-online-now/">Free shipping with $99 purchase</a></p>
+<p class="has-text-align-center"><a href="http://cbdarvada.com/shop-online-now/">Free Shipping with $99 purchase</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"gradient":"radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)"}},"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-background" style="background:radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)"><strong>Shop Online Now!</strong></a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-background" href="/shop-online-now/" style="background:radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)" rel="/shop-online-now/"><strong>Shop Online Now!</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -31,7 +31,7 @@ post_date: 2020-08-22 17:15:11
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>CBD Arvada Wadsworth</strong><br><a href="https://g.page/cbdarvadashaman?share">6695 Wadsworth Blvd, Arvada, CO 80003</a><br>10am – 6pm<br>Monday – Saturday<br>Corner of Wadsworth &amp; W 67th Ave<br><a href="tel: 7205832793">720-583-2793</a></p>
+<p><strong>CBD Arvada Wadsworth</strong><br><a href="https://g.page/cbdarvadashaman?share">6695 Wadsworth Blvd, Arvada, CO 80003</a><br>10am – 6pm<br>Monday – Saturday<br>Corner of Wadsworth &amp; W 67th Ave<br><a href="tel:+1-720-583-2793">720-583-2793</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

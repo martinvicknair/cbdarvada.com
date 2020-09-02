@@ -1,13 +1,17 @@
 ---
-ID: 221
+ID: 50
 post_title: Sitemap
-author: CBD Arvada
+author: cbdarvada
 post_excerpt: >
-  A list of pages on the cbdarvada.com web
-  site
+  A listing of the pages, posts, and links
+  on this website.
 layout: page
 permalink: https://cbdarvada.com/sitemap/
 published: true
-post_date: 2020-08-17 15:51:58
+post_date: 2020-08-26 00:00:47
 ---
+<!-- wp:paragraph -->
+<p>A listing of the pages, posts, and links on this website.</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:wpgoplugins/simple-sitemap-block {"block_post_types":"[{\u0022value\u0022:\u0022page\u0022,\u0022label\u0022:\u0022Page\u0022},{\u0022value\u0022:\u0022post\u0022,\u0022label\u0022:\u0022Post\u0022}]","show_excerpt":true} /-->
