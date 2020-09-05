@@ -1,10 +1,10 @@
 ---
 ID: 8
 post_title: About
-author: cbdlittleton
+author: cbdarvada
 post_excerpt: ""
 layout: page
-permalink: http://cbdlittleton.com/about/
+permalink: https://cbdarvada.com/about/
 published: true
 post_date: 2020-08-25 22:52:24
 ---
