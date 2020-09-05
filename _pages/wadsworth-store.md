@@ -31,7 +31,7 @@ post_date: 2020-08-25 22:53:56
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>CBD Arvada Wadsworth</strong><br><a href="https://g.page/cbdarvadashaman?share">6695 Wadsworth Blvd, Arvada, CO 80003</a><br>10am – 6pm<br>Monday – Saturday<br>Corner of Wadsworth &amp; W 67th Ave<br><a href="tel:+1-720-583-2793">720-583-2793</a></p>
+<p><strong>CBD Arvada Wadsworth</strong><br><a href="https://g.page/cbdarvadashaman?share">6695 Wadsworth Blvd, Arvada, CO 80003</a><br>10am – 7pm<br>Monday – Saturday<br>Corner of Wadsworth &amp; W 67th Ave<br><a href="tel:+1-720-583-2793">720-583-2793</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
