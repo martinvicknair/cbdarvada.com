@@ -31,7 +31,7 @@ post_date: 2020-08-25 22:53:35
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>CBD Arvada West</strong><br><a href="https://g.page/arvada-american-shaman-cbd?share">11651 W 64th Ave, Arvada, CO 80004</a><br>10am – 6pm<br>Monday – Saturday<br>Corner of W 64th &amp; Simms St.<br><a href="tel:+1-720-328-6216">720-328-6216</a></p>
+<p><strong>CBD Arvada West</strong><br><a href="https://g.page/arvada-american-shaman-cbd?share">11651 W 64th Ave, Arvada, CO 80004</a><br>10am – 7pm<br>Monday – Saturday<br>Corner of W 64th &amp; Simms St.<br><a href="tel:+1-720-328-6216">720-328-6216</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
