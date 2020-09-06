@@ -45,13 +45,13 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":166,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/cloud-tincture-cbd-terpene-rich-hemp-oil.jpg" alt="" class="wp-image-166"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/arvada/vg-cloud-terpene-rich-cbd-oil-tincture"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/cloud-tincture-cbd-terpene-rich-hemp-oil.jpg" alt="" class="wp-image-166"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>VG Cloud Tincture</h2>
+<h2><a href="https://cbdamericanshaman.com/arvada/vg-cloud-terpene-rich-cbd-oil-tincture">VG Cloud Tincture</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
