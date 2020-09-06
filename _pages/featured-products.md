@@ -29,7 +29,7 @@ post_date: 2020-08-26 19:33:30
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2><a href="https://cbdamericanshaman.com/arvada/water-soluble-full-spectrum-hemp-oil-30ml" rel="sponsored nofollow">Water Soluble Hemp Oil</a></h2>
+<h2><a href="https://cbdamericanshaman.com/arvada/water-soluble-full-spectrum-hemp-oil-30ml">Water Soluble Hemp Oil</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
