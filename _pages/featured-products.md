@@ -67,13 +67,13 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":280,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/cbgo-cbg-oil.jpg" alt="" class="wp-image-280"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/arvada/cbg-oil"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/cbgo-cbg-oil.jpg" alt="" class="wp-image-280"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBGo</h2>
+<h2><a href="https://cbdamericanshaman.com/arvada/cbg-oil">CBGo</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -89,13 +89,13 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":174,"sizeSlug":"full"} -->
-<figure class="wp-block-image size-full"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/cbnight.jpg" alt="" class="wp-image-174"/></figure>
+<figure class="wp-block-image size-full"><a href="https://cbdamericanshaman.com/arvada/cbn-oil"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/cbnight.jpg" alt="" class="wp-image-174"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBNight Water Soluble</h2>
+<h2><a href="https://cbdamericanshaman.com/arvada/cbn-oil">CBNight Water Soluble</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -111,13 +111,13 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":184,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/concentrated-hemp-oil-capsules.jpg" alt="" class="wp-image-184"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/arvada/concentrated-cbd-hemp-oil-capsules-15mg"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/concentrated-hemp-oil-capsules.jpg" alt="" class="wp-image-184"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD Capsules</h2>
+<h2><a href="https://cbdamericanshaman.com/arvada/concentrated-cbd-hemp-oil-capsules-15mg">CBD Capsules</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -133,13 +133,13 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":185,"sizeSlug":"full"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/cbd-gummies.jpg" alt="" class="wp-image-185"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full"><a href="https://cbdamericanshaman.com/arvada/cbd-gummies-10mg"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/cbd-gummies.jpg" alt="" class="wp-image-185"/></a></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD Gummies</h2>
+<h2><a href="https://cbdamericanshaman.com/arvada/cbd-gummies-10mg">CBD Gummies</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -155,13 +155,13 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":188,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/canine-cbd-hemp-oil-tincture-300x250.jpg" alt="" class="wp-image-188"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/arvada/canine-cbd-and-terpene-rich-hemp-oil-water-soluble"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/canine-cbd-hemp-oil-tincture-300x250.jpg" alt="" class="wp-image-188"/></a></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>Canine CBD Hemp Oil Tincture</h2>
+<h2><a href="https://cbdamericanshaman.com/arvada/canine-cbd-and-terpene-rich-hemp-oil-water-soluble">Canine CBD Hemp Oil Tincture</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -177,13 +177,13 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":190,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/anti-inflammatory-topical-cream-300x200.jpg" alt="" class="wp-image-190"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/arvada/topical-cream-500mg"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/anti-inflammatory-topical-cream-300x200.jpg" alt="" class="wp-image-190"/></a></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>Topical Creams</h2>
+<h2><a href="https://cbdamericanshaman.com/arvada/topical-cream-500mg">Topical Creams</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -199,13 +199,13 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":193,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/replenishing-face-cream-300x300.jpg" alt="" class="wp-image-193"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/arvada/replenishing-face-cream"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/replenishing-face-cream-300x300.jpg" alt="" class="wp-image-193"/></a></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>Replenishing Face Cream</h2>
+<h2><a href="https://cbdamericanshaman.com/arvada/replenishing-face-cream">Replenishing Face Cream</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -221,13 +221,13 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":196,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/lip-revitalizer.jpg" alt="" class="wp-image-196"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/arvada/lip-revitalizer"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/lip-revitalizer.jpg" alt="" class="wp-image-196"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD Lip Balm</h2>
+<h2><a href="https://cbdamericanshaman.com/arvada/lip-revitalizer">CBD Lip Balm</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -243,13 +243,13 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":200,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/hydrating-body-lotion.png" alt="" class="wp-image-200"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/arvada/hydrating-body-lotion"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/hydrating-body-lotion.png" alt="" class="wp-image-200"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD Body Lotion</h2>
+<h2><a href="https://cbdamericanshaman.com/arvada/hydrating-body-lotion">CBD Body Lotion</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
