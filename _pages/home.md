@@ -12,23 +12,17 @@ permalink: https://cbdarvada.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
-<!-- wp:image {"align":"center","id":54,"width":559,"height":258,"sizeSlug":"large","className":"is-style-rounded"} -->
-<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><a href="#locations"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/safeandopen-1024x472.png" alt="" class="wp-image-54" width="559" height="258"/></a><figcaption><strong><a href="#locations">Shop in person today at either of our two convenient locations in Arvada, Colorado</a></strong></figcaption></figure></div>
+<!-- wp:image {"align":"center","id":410,"sizeSlug":"large","className":"is-style-rounded"} -->
+<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/09/open-sign.jpg" alt="" class="wp-image-410"/><figcaption><a href="#locations">Shop today at either of our convenient Arvada locations</a></figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":55,"sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/100organic.jpg" alt="" class="wp-image-55"/></figure>
-<!-- /wp:image --></div>
+<div class="wp-block-column"></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":56,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/hempauthority.png" alt="" class="wp-image-56"/><figcaption><a href="/shop-online-now/">Free Shipping with $99 purchase</a></figcaption></figure>
-<!-- /wp:image -->
-
-<!-- wp:buttons {"align":"center"} -->
+<div class="wp-block-column"><!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"gradient":"radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)"}},"textColor":"black","className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-black-color has-text-color has-background" href="/shop-online-now/" style="background:radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)" rel="/shop-online-now/">Shop Online Now!</a></div>
 <!-- /wp:button --></div>
