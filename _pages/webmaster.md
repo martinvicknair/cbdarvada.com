@@ -9,7 +9,7 @@ published: true
 post_date: 2020-09-11 23:27:08
 ---
 <!-- wp:heading {"level":1} -->
-<h1>Web design by <a href="http://greatsites.io/">greatsites.io</a>! </h1>
+<h1>Web design by <a href="http://greatsites.io/">GreatSites.io</a>! </h1>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
