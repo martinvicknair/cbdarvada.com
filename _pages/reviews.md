@@ -16,6 +16,14 @@ post_date: 2020-08-25 22:52:45
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
+<!-- wp:paragraph -->
+<p><strong>Click here to leave your Google Review!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><p><em><strong>Voted "Best of the Best 2020: CBD Shop" as tabulated by Colorado Community Media.</strong></em></p><p><em><strong>Thank you for your continued support!</strong></em></p><cite><a href="https://coloradocommunitymedia.com/stories/best-of-the-best-2020,313269"><strong>Best of the Best 2020 | Colorado Community Media</strong></a></cite></blockquote>
 <!-- /wp:quote -->
