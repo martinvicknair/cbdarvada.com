@@ -13,7 +13,7 @@ post_date: 2020-09-11 23:27:08
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2>Web Development - Local SEO &amp; Marketing - American Shaman Franchisees welcomed!</h2>
+<h2>Web Development - Local SEO &amp; Marketing - American Shaman Affiliates welcomed!</h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
@@ -33,13 +33,13 @@ post_date: 2020-09-11 23:27:08
 <!-- /wp:separator -->
 
 <!-- wp:list -->
-<ul><li><strong>CBD American Shaman Franchisees in the Greater Denver Metro Area</strong>:<ul><li><a href="https://cbdarvada.com">American Shaman of Arvada, Colorado</a></li><li><a href="https://cbdlakewoodco.com">American Shaman of Lakewood, Colorado</a></li><li><a href="http://cbdlittleton.com">American Shaman of Littleton, Colorado</a></li></ul></li></ul>
+<ul><li><strong>CBD American Shaman Franchisees in the Greater Denver Metro Area</strong>:<ul><li><a href="https://cbdarvada.com/">American Shaman of Arvada, Colorado | cbdarvada.com</a></li><li><a href="https://cbdlakewoodco.com/">American Shaman of Lakewood, Colorado | cbdlakewoodco.com</a></li><li><a href="http://cbdlittleton.com/">American Shaman of Littleton, Colorado</a><a href="https://cbdlittleton.com/"> | cbdlittleton.com</a></li></ul></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
-<ul><li><strong>Check out the GreatSites.io complete portfolio of websites!</strong><ul><li><a href="https://greatsites.io/porfolio">www.GreatSites.io/portfolio/</a></li></ul></li></ul>
+<ul><li><strong>Check out the <strong>complete</strong></strong> <strong><a href="https://greatsites.io/portfolio">GreatSites.io</a> portfolio of websites!</strong><ul><li><a href="https://greatsites.io/porfolio">www.GreatSites.io/portfolio/</a></li></ul></li></ul>
 <!-- /wp:list -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
