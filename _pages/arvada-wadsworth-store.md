@@ -1,10 +1,11 @@
 ---
 ID: 19
-post_title: Wadsworth Store
+post_title: Arvada Wadsworth Store
 author: cbdarvada
 post_excerpt: ""
 layout: page
-permalink: https://cbdarvada.com/wadsworth-store/
+permalink: >
+  https://cbdarvada.com/arvada-wadsworth-store/
 published: true
 post_date: 2020-08-25 22:53:56
 ---
