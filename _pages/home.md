@@ -55,3 +55,7 @@ post_date: 2020-08-25 22:20:01
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>[feather_share url="https://cbdarvada.com]</p>
+<!-- /wp:paragraph -->
