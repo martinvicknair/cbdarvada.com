@@ -17,7 +17,7 @@ post_date: 2020-08-25 22:52:45
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>Click here to leave your Google Review!</strong></p>
+<p><strong><a href="https://g.page/arvada-american-shaman-cbd?share">Click here to leave your Google Review!</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
