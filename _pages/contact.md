@@ -21,7 +21,7 @@ post_date: 2020-08-25 22:53:08
 
 <!-- wp:column {"width":66.66} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:paragraph -->
-<p>[contact-form-7 id="47" title="Contact form 1"]</p>
+<p>[contact-form-7 id="47" title="Contact Page form"]</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
