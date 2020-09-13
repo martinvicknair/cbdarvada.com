@@ -12,6 +12,10 @@ post_date: 2020-09-13 02:54:15
 <figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/arvada/cbg-gummies"><img src="https://cbdarvada.com/wp-content/uploads/2020/09/cbg-gummies.jpg" alt="" class="wp-image-478"/></a></figure>
 <!-- /wp:image -->
 
+<!-- wp:heading {"level":1} -->
+<h1><a href="https://cbdamericanshaman.com/arvada/cbg-gummies">Buy CBG Gummies Online</a></h1>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
 <p>This line of gummies brings a lot of firsts for CBD American Shaman. CBG nanotechnology was a game changer and the CBGo Water Soluble has really impressed people with boosts in energy, focus and all the other exceptional benefits of CBG. </p>
 <!-- /wp:paragraph -->
