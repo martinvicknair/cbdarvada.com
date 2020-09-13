@@ -6,7 +6,7 @@ post_excerpt: 'Come in today for a Free Sample and get 15% off your purchase!'
 layout: post
 permalink: https://cbdarvada.com/15-off-couponpost/
 published: true
-post_date: 2020-08-26 16:22:29
+post_date: 2020-08-25 16:22:29
 ---
 <!-- wp:paragraph -->
 <p>We invite you to visit us and learn about the many benefits of our high quality CBD products!</p>
