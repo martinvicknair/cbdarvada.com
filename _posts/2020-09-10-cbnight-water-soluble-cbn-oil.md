@@ -5,7 +5,7 @@ author: cbdarvada
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdarvada.com/uncategorized/cbnight-water-soluble-cbn-oil/
+  https://cbdarvada.com/relief/cbnight-water-soluble-cbn-oil/
 published: true
 post_date: 2020-09-10 03:21:38
 ---
