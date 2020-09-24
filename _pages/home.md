@@ -12,8 +12,8 @@ permalink: https://cbdarvada.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
-<!-- wp:image {"align":"center","id":410,"sizeSlug":"large","className":"is-style-rounded"} -->
-<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/09/open-sign.jpg" alt="" class="wp-image-410"/><figcaption><a href="#locations">Shop today at either of our convenient Arvada locations</a></figcaption></figure></div>
+<!-- wp:image {"align":"center","id":498,"sizeSlug":"large","className":"is-style-rounded"} -->
+<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large"><img src="http://cbdarvada.com/wp-content/uploads/2020/09/open-sign-300px.jpg" alt="" class="wp-image-498"/><figcaption><a href="#locations">Shop today at either of our convenient Arvada locations</a></figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -55,7 +55,3 @@ post_date: 2020-08-25 22:20:01
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
-
-<!-- wp:paragraph -->
-<p>[feather_share url="https://cbdarvada.com]</p>
-<!-- /wp:paragraph -->

@@ -4,7 +4,8 @@ post_title: CBG Gummies
 author: cbdarvada
 post_excerpt: ""
 layout: post
-permalink: https://cbdarvada.com/cbg-gummies/
+permalink: >
+  https://cbdarvada.com/posts/edibles/cbg-gummies/
 published: true
 post_date: 2020-09-13 02:54:15
 ---

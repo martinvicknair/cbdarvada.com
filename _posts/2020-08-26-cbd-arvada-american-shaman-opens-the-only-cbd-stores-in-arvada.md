@@ -9,7 +9,7 @@ post_excerpt: >
   Only CBD Stores in Arvada
 layout: post
 permalink: >
-  https://cbdarvada.com/cbd-arvada-american-shaman-opens-the-only-cbd-stores-in-arvada/
+  https://cbdarvada.com/posts/news/cbd-arvada-american-shaman-opens-the-only-cbd-stores-in-arvada/
 published: true
 post_date: 2020-08-26 16:14:26
 ---

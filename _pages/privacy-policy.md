@@ -13,7 +13,7 @@ post_date: 2020-08-25 22:09:35
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Our website address is: http://cbdarvada.com.</p>
+<p>Our website address is: https://cbdarvada.com.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
