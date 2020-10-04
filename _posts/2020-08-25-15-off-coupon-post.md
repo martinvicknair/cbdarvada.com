@@ -17,8 +17,8 @@ post_date: 2020-08-25 16:22:29
 <p>Come in today to either of our convenient Arvada locations for a Free CBD Sample and receive 15% off at checkout.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"center","id":564,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdarvada.com/wp-content/uploads/2020/10/15-off-coupon-arvada.jpg"><img src="https://cbdarvada.com/wp-content/uploads/2020/10/15-off-coupon-arvada.jpg" alt="" class="wp-image-564"/></a><figcaption><strong>COUPON CODE: <span style="text-decoration: underline;">WWWEB15</span> Expires:  <span style="text-decoration: underline;">[wpdts-date days="+3"]</span></strong></figcaption></figure></div>
+<!-- wp:image {"align":"center","id":564,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/10/15-off-coupon-arvada.jpg" alt="" class="wp-image-564"/><figcaption><strong>COUPON CODE: <span style="text-decoration: underline;">WWW15</span> Expires:  <span style="text-decoration: underline;">[wpdts-date days="+3"]</span></strong></figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
