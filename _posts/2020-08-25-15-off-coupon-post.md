@@ -18,7 +18,7 @@ post_date: 2020-08-25 16:22:29
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":142,"width":512,"height":319,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/15-off-coupon-1024x638.jpg" alt="" class="wp-image-142" width="512" height="319"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="http://cbdarvada.com/wp-content/uploads/2020/08/15-off-coupon-1024x638.jpg" alt="" class="wp-image-142" width="512" height="319"/><figcaption>Expires: </figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
