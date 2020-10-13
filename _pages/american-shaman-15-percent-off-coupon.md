@@ -1,6 +1,6 @@
 ---
 ID: 343
-post_title: '15% Off Coupon'
+post_title: '15% Off Coupon Offer'
 author: cbdarvada
 post_excerpt: "We invite you to visit us and learn about the many benefits of our high quality CBD products! Enter your email below and we'll send you your coupon."
 layout: page
