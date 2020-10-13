@@ -1,8 +1,8 @@
 ---
 ID: 105
 post_title: >
-  CBD Arvada American Shaman Opens the
-  Only CBD Stores in Arvada
+  CBD Arvada American Shaman Opens Stores
+  in Arvada
 author: cbdarvada
 post_excerpt: >
   CBD Arvada American Shaman Opens the
