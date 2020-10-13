@@ -10,7 +10,7 @@ post_excerpt: >
   in Missouri.
 layout: post
 permalink: >
-  https://cbdarvada.com/posts/uncategorized/hemp-infused-cbd-honey-sticks/
+  https://cbdarvada.com/posts/edibles/hemp-infused-cbd-honey-sticks/
 published: true
 post_date: 2020-10-13 13:29:37
 ---
