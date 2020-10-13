@@ -18,7 +18,7 @@ post_date: 2020-08-25 16:22:29
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":564,"sizeSlug":"full"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full"><img src="https://cbdarvada.com/wp-content/uploads/2020/10/15-off-coupon-arvada.jpg" alt="" class="wp-image-564"/><figcaption><strong>COUPON CODE: <span style="text-decoration: underline;">WWW15</span> Expires:  <span style="text-decoration: underline;">[wpdts-date days="+3"]</span></strong></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full"><img src="https://cbdarvada.com/wp-content/uploads/2020/10/15-off-coupon-arvada.jpg" alt="" class="wp-image-564"/><figcaption><strong>COUPON CODE: <span style="text-decoration: underline;">WWW15</span> Expires:  <span style="text-decoration: underline;">[wpdts-date days="+5"]</span></strong></figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
