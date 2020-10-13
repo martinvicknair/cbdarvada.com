@@ -4,7 +4,8 @@ post_title: '15% Off Coupon'
 author: cbdarvada
 post_excerpt: ""
 layout: page
-permalink: https://cbdarvada.com/15-off-coupon/
+permalink: >
+  https://cbdarvada.com/15-percent-off-coupon/
 published: true
 post_date: 2020-08-30 18:59:03
 ---
