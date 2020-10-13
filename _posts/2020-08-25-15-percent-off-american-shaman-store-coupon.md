@@ -1,6 +1,6 @@
 ---
 ID: 107
-post_title: '15% Off In-Store Coupon'
+post_title: '15% Off In-Store Coupon!'
 author: cbdarvada
 post_excerpt: 'Come in today for a Free Sample and get 15% off your purchase!'
 layout: post
