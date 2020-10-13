@@ -5,7 +5,7 @@ author: cbdarvada
 post_excerpt: 'Come in today for a Free Sample and get 15% off your purchase!'
 layout: post
 permalink: >
-  https://cbdarvada.com/posts/coupons/15-off-coupon-post/
+  https://cbdarvada.com/posts/coupons/15-percent-off-american-shaman-store-coupon/
 published: true
 post_date: 2020-08-25 16:22:29
 ---
