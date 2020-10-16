@@ -12,8 +12,8 @@ permalink: https://cbdarvada.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
-<!-- wp:core-embed/youtube {"url":"https://youtu.be/1IfG1axetDA","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<!-- wp:core-embed/youtube {"url":"https://youtu.be/1IfG1axetDA","type":"video","providerNameSlug":"youtube","align":"center","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://youtu.be/1IfG1axetDA
 </div><figcaption><a href="https://cbdshopdenver.com"><strong>cbdshopdenver.com</strong></a></figcaption></figure>
 <!-- /wp:core-embed/youtube -->
