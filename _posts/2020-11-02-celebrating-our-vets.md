@@ -5,7 +5,7 @@ author: cbdarvada
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdarvada.com/posts/uncategorized/celebrating-our-vets/
+  https://cbdarvada.com/posts/news/celebrating-our-vets/
 published: true
 post_date: 2020-11-02 16:22:18
 ---
