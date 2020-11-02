@@ -5,7 +5,7 @@ author: cbdarvada
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdarvada.com/posts/news/celebrating-our-vets/
+  https://cbdarvada.com/posts/coupons/celebrating-our-vets/
 published: true
 post_date: 2020-11-02 16:22:18
 ---
@@ -18,9 +18,9 @@ post_date: 2020-11-02 16:22:18
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Learn about the qualifications here:<br><a href="https://cbdamericanshaman.com/lakewood/compassionate-care">https://cbdamericanshaman.com/lakewood/compassionate-care</a>&nbsp;</p>
+<p>Learn about the qualifications here:<br><a href="https://cbdamericanshaman.com/arvada/compassionate-care">https://cbdamericanshaman.com/arvada/compassionate-care</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>#CBDAmericanShaman #CBDLakewoodCO</p>
+<p>#CBDAmericanShaman #CBDArvada</p>
 <!-- /wp:paragraph -->
