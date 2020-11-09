@@ -5,7 +5,7 @@ author: cbdarvada
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdarvada.com/posts/uncategorized/buy-one-vet-one/
+  https://cbdarvada.com/posts/news/buy-one-vet-one/
 published: true
 post_date: 2020-11-09 16:24:59
 ---
