@@ -15,7 +15,7 @@ post_date: 2020-08-25 22:20:01
 <!-- wp:core-embed/youtube {"url":"https://youtu.be/1IfG1axetDA","type":"video","providerNameSlug":"youtube","align":"center","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://youtu.be/1IfG1axetDA
-</div><figcaption><strong><span style="text-decoration: underline;"><a href="https://cbdshopdenver.com">CBDShopDenver.com</a></span></strong></figcaption></figure>
+</div></figure>
 <!-- /wp:core-embed/youtube -->
 
 <!-- wp:separator -->
