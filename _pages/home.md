@@ -12,8 +12,8 @@ permalink: https://cbdarvada.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
-<!-- wp:image {"align":"center","id":793,"width":396,"height":512,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://cbdarvada.com/wp-content/uploads/2020/11/black-friday-poster-code-791x1024.png" alt="" class="wp-image-793" width="396" height="512"/></figure></div>
+<!-- wp:image {"align":"center","id":793,"width":396,"height":512,"sizeSlug":"large","linkDestination":"media"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://cbdarvada.com/wp-content/uploads/2020/11/black-friday-poster-code.png"><img src="https://cbdarvada.com/wp-content/uploads/2020/11/black-friday-poster-code-791x1024.png" alt="" class="wp-image-793" width="396" height="512"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
