@@ -31,7 +31,7 @@ post_date: 2020-08-25 22:20:01
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>BLACK FRIDAY HOURS: 9am - 7pm , Both Locations Nov 27, 2020</strong></p>
+<p><strong>BLACK FRIDAY HOURS: 9am - 7pm , Both Locations Nov 27, 2020</strong><br><strong>Closed Thanksgiving</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:columns -->
