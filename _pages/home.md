@@ -30,6 +30,10 @@ post_date: 2020-08-25 22:20:01
 <hr class="wp-block-separator is-style-wide" id="locations"/>
 <!-- /wp:separator -->
 
+<!-- wp:paragraph -->
+<p><strong>BLACK FRIDAY HOURS: 9am - 7pm , Both Locations Nov 27, 2020</strong></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
