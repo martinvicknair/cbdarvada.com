@@ -18,7 +18,7 @@ Join us this Black Friday, November 27th. We are giving away FREE bottles of CBD
 ● Free trial-size bottle of CBD to the first 50 people in the door
 ● No purchase necessary. Limit one per person
 
-Shop online at: https://cbdarvada.com/shop
+Shop online at:<a href="https://cbdarvada.com/shop"> https://cbdarvada.com/shop</a>
 
 <a href="http://www.youtube.com/watch?v=eusFvc4J0dU">http://www.youtube.com/watch?v=eusFvc4J0dU</a>
 
