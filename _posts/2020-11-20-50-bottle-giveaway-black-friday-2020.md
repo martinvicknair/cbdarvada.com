@@ -10,13 +10,15 @@ published: true
 post_date: 2020-11-20 16:58:22
 ---
 50 Bottle Giveaway Black Friday 2020
+Join us this Black Friday, November 27th. We are giving away FREE bottles of CBD to the first 50 people in the door. No purchase necessary! Limit one per person. While you're in, shop our Black Friday Sale and get 30% off your purchase.
 
-Join us this Black Friday, November 27th. We are giving away FREE bottles of CBD to the first 50 customers. Limit one per person. While you're in, shop our <strong>Black Friday Sale and get 30% off your purchase</strong>.
+● Closed Thanksgiving
+● Open Black Friday 9am - 7pm, both locations!
 
-●<strong> Free trial-size bottle of CBD to the first 50 in-store customers
-</strong>● <strong>With purchase, </strong><strong>Limit one per person</strong>
+● Free trial-size bottle of CBD to the first 50 people in the door
+● No purchase necessary. Limit one per person
 
-<a href="https://cbdarvada.com/#locations">https://cbdarvada.com/#locations</a>
+Shop online at: https://cbdarvada.com/shop
 
 <a href="http://www.youtube.com/watch?v=eusFvc4J0dU">http://www.youtube.com/watch?v=eusFvc4J0dU</a>
 
