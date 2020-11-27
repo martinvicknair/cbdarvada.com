@@ -22,4 +22,4 @@ Shop online at:<a href="https://cbdarvada.com/shop"> https://cbdarvada.com/shop<
 
 <a href="http://www.youtube.com/watch?v=eusFvc4J0dU">http://www.youtube.com/watch?v=eusFvc4J0dU</a>
 
-<a title="Attachment" href="https://i.ytimg.com/vi/eusFvc4J0dU/maxresdefault.jpg"><img title="Attachment" src="https://i.ytimg.com/vi/eusFvc4J0dU/maxresdefault.jpg" alt="Attachment" /></a>
+<a title="Attachment" href="https://i.ytimg.com/vi/eusFvc4J0dU/maxresdefault.jpg"><img title="Attachment" src="https://i.ytimg.com/vi/eusFvc4J0dU/maxresdefault.jpg" alt="Attachment"></a>
