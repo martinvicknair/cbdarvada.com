@@ -32,10 +32,6 @@ http://www.youtube.com/watch?v=p7waZj394HE
 <hr class="wp-block-separator is-style-wide" id="locations"/>
 <!-- /wp:separator -->
 
-<!-- wp:paragraph -->
-<p><strong>BLACK FRIDAY HOURS: 9am - 7pm , Both Locations Nov 27, 2020</strong><br>- <strong>Closed Thanksgiving</strong> -</p>
-<!-- /wp:paragraph -->
-
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
