@@ -33,7 +33,15 @@ https://youtu.be/HIUEzHXQY7Q
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">🎅 <strong>Holiday Hours:</strong> 🎄<br><strong>Christmas Eve: 10am-4pm<br>Closed Christmas Day<br>New Year’s Eve: 10am-4pm<br>Closed New Year's Day</strong></p>
+<p class="has-text-align-center">🎅&nbsp;<strong>Holiday Hours:</strong>&nbsp;🎄<br><strong>Christmas Eve: 10am-4pm<br>Closed Christmas Day<br>New Year’s Eve: 10am-4pm<br>Closed New Year's Day</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:columns -->
