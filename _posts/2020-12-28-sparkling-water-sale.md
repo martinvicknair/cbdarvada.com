@@ -15,8 +15,8 @@ Offer good through December 31st.
 
 CBD water can be used for CBD’s potential health benefits, such as promoting relaxation and supporting joint health.
 
-<a href="https://cbdarvada.com">https://cbdarvada.com</a>
+<a href="https://cbdarvada.com/shop">https://cbdarvada.com/shop</a>
 
-Arvada #CBD #AmericanShaman<span>&nbsp;</span>
+Arvada #CBD #AmericanShaman
 
-<a href="https://cbdarvada.com/wp-content/uploads/2020/12/1609188494118.jpg" title="cbd-tea-waters-4pack.jpg"><img src="https://cbdarvada.com/wp-content/uploads/2020/12/1609188494118.jpg" alt="cbd-tea-waters-4pack.jpg" title="cbd-tea-waters-4pack.jpg"></a>
+<a title="cbd-tea-waters-4pack.jpg" href="https://cbdarvada.com/wp-content/uploads/2020/12/1609188494118.jpg"><img title="cbd-tea-waters-4pack.jpg" src="https://cbdarvada.com/wp-content/uploads/2020/12/1609188494118.jpg" alt="cbd-tea-waters-4pack.jpg" /></a>
