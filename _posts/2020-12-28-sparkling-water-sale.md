@@ -5,7 +5,7 @@ author: cbdarvada
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdarvada.com/posts/news/sparkling-water-sale/
+  https://cbdarvada.com/posts/sales/sparkling-water-sale/
 published: true
 post_date: 2020-12-28 13:52:30
 ---
