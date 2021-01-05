@@ -12,11 +12,9 @@ permalink: https://cbdarvada.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
-<!-- wp:core-embed/youtube {"url":"https://youtu.be/HIUEzHXQY7Q","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/HIUEzHXQY7Q
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<!-- wp:image {"align":"center","id":498,"sizeSlug":"large","className":"is-style-rounded"} -->
+<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large"><img src="https://cbdarvada.com/wp-content/uploads/2020/09/open-sign-300px.jpg" alt="" class="wp-image-498"/></figure></div>
+<!-- /wp:image -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
