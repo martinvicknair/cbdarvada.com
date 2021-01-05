@@ -26,14 +26,6 @@ post_date: 2020-08-25 22:20:01
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
-<!-- wp:separator {"className":"is-style-wide"} -->
-<hr class="wp-block-separator is-style-wide" id="locations"/>
-<!-- /wp:separator -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">🎅&nbsp;<strong>Holiday Hours:</strong>&nbsp;🎄<br><strong>Christmas Eve: 10am-4pm<br>Closed Christmas Day<br>New Year’s Eve: 10am-4pm<br>Closed New Year's Day</strong></p>
-<!-- /wp:paragraph -->
-
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
