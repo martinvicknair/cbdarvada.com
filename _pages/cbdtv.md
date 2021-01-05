@@ -8,6 +8,6 @@ permalink: https://cbdarvada.com/cbdtv/
 published: true
 post_date: 2021-01-05 12:57:47
 ---
-<!-- wp:paragraph -->
-<p><a href="https://cbdarvada.com/posts/media_slider/cbdtv/">[slide-anything id="1108"]</a></p>
-<!-- /wp:paragraph -->
+<!-- wp:shortcode -->
+[slide-anything id="1108"]
+<!-- /wp:shortcode -->
