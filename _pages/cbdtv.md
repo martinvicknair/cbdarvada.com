@@ -9,5 +9,5 @@ published: true
 post_date: 2021-01-05 12:57:47
 ---
 <!-- wp:shortcode -->
-[slide-anything id="1108"]
+[wonderplugin_slider id=1]
 <!-- /wp:shortcode -->
