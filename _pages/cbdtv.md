@@ -9,5 +9,5 @@ published: true
 post_date: 2021-01-05 12:57:47
 ---
 <!-- wp:paragraph -->
-<p>[FSL id=1080]</p>
+<p>[transitionslider id="2"]</p>
 <!-- /wp:paragraph -->
