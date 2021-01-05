@@ -9,5 +9,5 @@ published: true
 post_date: 2021-01-05 12:57:47
 ---
 <!-- wp:paragraph -->
-<p><a href="https://cbdarvada.com/posts/media_slider/cbdtv/">[MDSL id=1102]</a></p>
+<p><a href="https://cbdarvada.com/posts/media_slider/cbdtv/">[slide-anything id="1104"]</a></p>
 <!-- /wp:paragraph -->
