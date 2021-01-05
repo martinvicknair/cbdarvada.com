@@ -9,5 +9,5 @@ published: true
 post_date: 2021-01-05 12:57:47
 ---
 <!-- wp:paragraph -->
-<p>[transitionslider id="2"]</p>
+<p>[metaslider id="1084"]</p>
 <!-- /wp:paragraph -->
