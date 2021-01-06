@@ -9,5 +9,5 @@ published: true
 post_date: 2021-01-05 12:57:47
 ---
 <!-- wp:shortcode -->
-[soliloquy slug="cbdtv"]
+[crellyslider alias="cbtv"]
 <!-- /wp:shortcode -->
