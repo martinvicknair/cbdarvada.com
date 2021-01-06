@@ -8,6 +8,6 @@ permalink: https://cbdarvada.com/cbdtv/
 published: true
 post_date: 2021-01-05 12:57:47
 ---
-<!-- wp:shortcode -->
+<!-- wp:crelly-slider/slider {"sliderAlias":"cbtv"} -->
 [crellyslider alias="cbtv"]
-<!-- /wp:shortcode -->
+<!-- /wp:crelly-slider/slider -->
